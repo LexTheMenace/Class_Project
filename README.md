@@ -1,1 +1,3 @@
-# Class_Project
+# Class Project
+
+## Paducah Cohort!
