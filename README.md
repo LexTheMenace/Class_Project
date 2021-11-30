@@ -3,3 +3,4 @@
 ## Paducah Cohort!
 
 - Lex wuz here
+- Richard was here
