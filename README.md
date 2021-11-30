@@ -1,5 +1,5 @@
 # Class Project
 
-hello everyone again
+hello everyone again for another time
 
 ## Paducah Cohort!
